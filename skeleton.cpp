@@ -33,7 +33,6 @@
 
 using namespace std;
 #define eat cin
-#define moo cout
 #define big long long
 #define endl "\n"
 
